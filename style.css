@@ -1,0 +1,62 @@
+.titulo {
+    color: A93226 ;
+    text-align: center;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+}
+
+.imagen {
+    display: center;
+    
+}
+
+p {
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+}
+
+.mision {
+    color: blue;
+}
+
+.lista {
+    color: purple;
+    text-align: center;
+    font-family: Arial;
+}
+
+.partes{
+
+    margin-right: 20px;
+    color: #424949; 
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.par{
+
+    margin-right: 20px;
+    color: #424949; 
+    font-size:20px;
+    font-family: monospace;
+}
+
+.imagen{
+ display: center;
+ height:500;
+ width: 700;
+}
+
+h2{
+    text-align: center;
+    color: #873600;
+    font-family: fantasy;
+}
+
+h1{
+    text-align: center;
+    color: #7B241C;
+    font-family: cursive;
+}
+
